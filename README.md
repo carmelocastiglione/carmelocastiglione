@@ -7,6 +7,7 @@ Sono un docente di Informatica presso l'Istituto Tecnico Francesco Viganò di Me
 ## 💻 Competenze
 
 - Linguaggio preferito: **C**
+- Framework web preferito: **Laravel**
 - Esperienza come **sviluppatore web**
 - Insegnamento di informatica, programmazione e tecnologie digitali
 
